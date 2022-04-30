@@ -1,0 +1,42 @@
+<html>
+<body>
+<h>list of ordered list</h>
+<ol type="i">
+ <li>divya</li>
+ <li>sravanthi</li>
+ <li>keerthi</li>
+</ol>
+<ol type="A">
+ <li>divya</li>
+ <li>sravanthi</li>
+ <li>keerthi</li>
+</ol>
+<ol type="1">
+ <li>divya</li>
+ <li>sravanthi</li>
+ <li>keerthi</li>
+</ol>
+<h>list of unordered list</h>
+<ul style="list-style-type:circle;">
+ <li>divya</li>
+ <li>sravanthi</li>
+ <li>keerthi</li>
+</ul>
+<h>nested list</h>
+<p> a list can be nested</p>
+<ul>
+<li>types of family</li>
+<ul>
+<li>nuclear</li>
+<li>joint</li>
+</ul>
+</ul>
+<h>a discription list</h>
+<dl>
+ <dt>coffee</dt>
+ <dd>--black hot coffee</dd>
+ <dt>tea</dt>
+ <dd>--black cold coffee</dd>
+</dl>
+</body>
+</html>
