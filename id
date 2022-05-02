@@ -1,0 +1,18 @@
+<html>
+<style>
+#book {
+  background-color:lightblue;
+ color: blue;
+ text-align:right;
+}
+.note{
+  background-color:lightblue;
+ color: blue;
+ text-align:right;
+}
+</style>
+<body>
+<h>hello <span class="note">VEERAMREDDYDIVYASRI</span> this is ur info</h>
+<p id="book">hello divya welcome</p>
+</body>
+</html>
